@@ -40,6 +40,8 @@ Seaborn – Statistical visualization
 SciPy – Statistical testing
 Jupyter Notebook / Google Colab
 VS Code
+
+
 📁 Project Structure
 Seasonal-Agriculture-Performance-Analysis/
 │
